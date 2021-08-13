@@ -4,10 +4,8 @@ This is a Collaborative Based Recommendation Engine which recommends most correl
 https://www.kaggle.com/skillsmuggler/amazon-ratings
 
 This is a dataset related to over 2 Million customer reviews and ratings of Beauty related products sold on their website.
-
-It contains
-
-the unique UserId (Customer Identification),
-the product ASIN (Amazon's unique product identification code for each product),
-Ratings (ranging from 1-5 based on customer satisfaction) and
-the Timestamp of the rating (in UNIX time)
+It contains :
+##### the unique UserId (Customer Identification),
+##### the product ASIN (Amazon's unique product identification code for each product),
+##### Ratings (ranging from 1-5 based on customer satisfaction) and
+##### the Timestamp of the rating (in UNIX time)
